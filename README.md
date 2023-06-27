@@ -24,9 +24,8 @@
 
 ## About The Project
 
-https://imgur.com/w2NqcJ7
-https://imgur.com/riKC2jm
- <img src="https://i.imgur.com/w2NqcJ7.png" alt="Logo" width="900" height="500">
+
+ <img src="https://i.imgur.com/riKC2jm.png" alt="Logo" width="900" height="500">
  <br/>
 <p >
  <img src="https://i.imgur.com/z96h1vb.png" alt="project(Coise-User)" width="200" height="150">
