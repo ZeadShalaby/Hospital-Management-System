@@ -2,9 +2,8 @@
 <br/>
 <p align="center">
   <a href="https://github.com/ZeadShalaby/Hospital-Management-System">
-    <img src="https://i.imgur.com/LrPHedV.png" alt="Logo" width="200" height="170">
+    <img src="https://i.imgur.com/SHAeEBd.png" alt="Logo" width="200" height="170">
   </a>
-  
 
 <h3 align="center">Hospital-Management-System</h3>
 
