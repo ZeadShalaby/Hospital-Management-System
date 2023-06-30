@@ -27,12 +27,7 @@
 
  <img src="https://i.imgur.com/8WMREd4.png" alt="Logo" width="900" height="500">
  <br/>
-<p >
- <img src="https://i.imgur.com/z96h1vb.png" alt="project(Coise-User)" width="200" height="150">
- <img src="https://i.imgur.com/6Xxnqhv.png" alt="project(Admin)" width="200" height="150">
- <img src="https://i.imgur.com/JE3vHEI.png" alt="project(User)" width="200" height="150">
- <img src="https://i.imgur.com/UKpjKbc.png" alt="project(Login-User)" width="200" height="150">
-</p>
+
 
 ## Library-System
 * Customizable and easy-to-use medical records software. Reduce Operational Costs. All the Support You Need. Flexible payments. Serve More Patients. Own Your Patient Database. Goal is Reduce errors and improve practice management
